@@ -1,0 +1,85 @@
+form {
+	   margin-top:4%;
+	   margin-left:10%;
+	   background-color:rgb(230,230,230);
+	   height:80%;
+	   width:40%;
+	   height:80%;
+}
+body {
+	  background-image:url("bab/sea.jpg");
+	  background-size:cover;
+	  background-repeat:no-repeat;
+}
+.lat1{
+	  font-weight:bold;
+	  background-color:black;
+	  color:white;
+	  font-size:1.5rem;
+	  width:30px;
+	  float:left;
+	  margin-left:5px;
+	  text-align:center;
+}
+.mark2 {
+	    padding-top:60px;
+		font-size:2rem;
+}
+.mark3 {
+	    padding-left:3%;
+		
+}
+#mark {
+	   background:transparent;
+	   font-size:1.6rem;
+	   border:none;
+	   border-bottom:2px solid black;
+	   width:90%;
+	   margin-top:70px;
+	   margin-left:3%;
+	   
+}
+#mark2 {
+	    background:transparent;
+	   font-size:1.6rem;
+	   border:none;
+	   border-bottom:2px solid black;
+	   width:90%;
+	   margin-top:60px;
+	   margin-left:3%;
+	   
+	   
+}
+#submit {
+	     width:90%;
+		 height:50px;
+		 background-color:blue;
+		 margin-top:25px;
+		 margin-left:3%;
+}
+#submit:hover{
+	            background-color:rgb(20,70,100,0.9);
+}
+.mark {
+	   text-decoration:none;
+	   border-bottom:1px solid black;
+	   font-size:1.1rem;
+	   margin-top:50px;
+}
+.bil {
+	  margin-top:30px;
+	  margin-left:3%;
+}
+#bil {
+	  font-weight:bold;
+	  margin-left:3%;
+	  font-size:1.3rem;
+}
+#bili {
+	   font-size:1.3rem;
+	   margin-left:3%;
+	   padding-bottom:7%;
+}
+.marko {
+	     margin-left:-5%;
+}
